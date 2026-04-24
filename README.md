@@ -1,2 +1,7 @@
-# demo-enamel-odontologia-estetica
-Demo web para Enamel Odontología Estética — diseñada por eterlab.
+# Enamel Odontología Estética
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
